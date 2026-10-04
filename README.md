@@ -76,7 +76,8 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 ### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,redis,firebase,mongodb,kafka,git,github,elasticsearch,sqlite" />
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,firebase,mongodb,kafka,git,github,elasticsearch,sqlite" />
 </p>
 
 * Oracle Database
@@ -105,12 +106,11 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 ### Software & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,sketch,postman" />
+  <img src="https://skillicons.dev/icons?i=figma,postman" />
 </p>
 
 * Figma
 * Postman
-* Sketch
   
 ### Operating Systems
 
