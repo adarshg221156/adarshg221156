@@ -96,7 +96,7 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 ### Andriod Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=andriod" />
+   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
 </p>
 
 * Android Development Studio
