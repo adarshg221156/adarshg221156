@@ -224,6 +224,9 @@ I'm using GitHub to document my journey through:
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh221156&show_icons=true&locale=en" alt="adarsh221156" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh221156&show_icons=true&locale=en&layout=compact" alt="adarsh221156" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh221156" alt="adarsh221156" /></a></p>
 
 ---
 
