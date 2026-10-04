@@ -236,9 +236,11 @@ I'm using GitHub to document my journey through:
   <a href="https://www.linkedin.com/in/adarsh221156">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/adarsh221156">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:adarsh221156@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> 
   </a>
