@@ -145,18 +145,21 @@ I'm particularly interested in how AI agents can be integrated into traditional 
 
 ---
 
-## 🧠 Data Structures & Algorithms
+🧠 Data Structures & Algorithms
 
 I enjoy competitive programming and algorithmic problem solving.
 
+🟢 1000+ DSA problems solved
 * 🟢 **1000+ DSA problems solved**
-* ⭐ **CodeChef 4★**
-* 📈 Maximum CodeChef Rating: **1843**
-* 🏅 CodeChef May Cook-Off 2021 — **Global Rank 60**
+* 💻 [LeetCode](https://leetcode.com/adarsh221156/) | ⭐ **CodeChef 4★** | 🏅 **Global Rank 60 — May Cook-Off 2021**
+💻 LeetCode Profile
+⭐ CodeChef 4★
+📈 Maximum CodeChef Rating: 1843
+🏅 CodeChef May Cook-Off 2021 — Global Rank 60
 
 Topics I regularly practice:
 
-`Arrays` `Strings` `Trees` `Graphs` `DP` `Greedy` `Binary Search` `Heaps` `Hashing` `Backtracking` `Sliding Window`
+Arrays Strings Trees Graphs DP Greedy Binary Search Heaps Hashing Backtracking Sliding Window
 
 ---
 
@@ -189,13 +192,13 @@ I'm using GitHub to document my journey through:
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/adarsh221156">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/adarsh221156">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com"> 
+  <a href="mailto:adarsh221156@gmail.com"> 
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> 
   </a>
 </p>
