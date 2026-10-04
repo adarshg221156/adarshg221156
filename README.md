@@ -27,13 +27,13 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,python,php" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,python,php" />
 </p>
 
 ### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,spring,kafka,rabbitmq" />
 </p>
 
 * Java
@@ -47,7 +47,7 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 * JavaScript
@@ -58,6 +58,10 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 * Redwood UI
 
 ### AI / GenAI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pandas,pytorch,opencv" />
+</p>
 
 * Oracle AI Agent Studio
 * Oracle Agentic Flows
@@ -71,15 +75,51 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 ### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,kafka,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,redis,firebase,mongodb,kafka,git,github,elasticsearch,sqlite" />
 </p>
 
 * Oracle Database
 * MySQL
 * Apache Kafka
-* Docker
 * Git
 * GitHub
+
+### Devops
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+* Docker
+* Kubernetes
+  
+### Andriod Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=andriod" />
+</p>
+
+* Android Development Studio
+  
+### Software & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,sketch,postman" />
+</p>
+
+* Figma
+* Postman
+* Sketch
+  
+### Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
+</p>
+
+* Windows
+* Linux
+* macOS
 
 ---
 
@@ -149,17 +189,11 @@ I'm particularly interested in how AI agents can be integrated into traditional 
 
 I enjoy competitive programming and algorithmic problem solving.
 
-🟢 1000+ DSA problems solved
-🟢 **1000+ DSA problems solved**
-💻 [LeetCode](https://leetcode.com/adarsh221156/) 
-⭐ **CodeChef 4★**
-📈 **Maximum CodeChef Rating: 1843**
-🏅 **Global Rank 60 — May Cook-Off 2021**
-
-💻 LeetCode Profile
-⭐ CodeChef 4★
-📈 Maximum CodeChef Rating: 1843
-🏅 CodeChef May Cook-Off 2021 — Global Rank 60
+* 🟢 **1000+ DSA problems solved**
+* 💻 [LeetCode](https://leetcode.com/adarsh221156/) 
+* ⭐ **CodeChef 4★**
+* 📈 **Maximum CodeChef Rating: 1843**
+* 🏅 **Global Rank 60 — May Cook-Off 2021**
 
 Topics I regularly practice:
 
