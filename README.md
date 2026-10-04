@@ -150,8 +150,12 @@ I'm particularly interested in how AI agents can be integrated into traditional 
 I enjoy competitive programming and algorithmic problem solving.
 
 🟢 1000+ DSA problems solved
-* 🟢 **1000+ DSA problems solved**
-* 💻 [LeetCode](https://leetcode.com/adarsh221156/) | ⭐ **CodeChef 4★** | 🏅 **Global Rank 60 — May Cook-Off 2021**
+🟢 **1000+ DSA problems solved**
+💻 [LeetCode](https://leetcode.com/adarsh221156/) 
+⭐ **CodeChef 4★**
+📈 **Maximum CodeChef Rating: 1843**
+🏅 **Global Rank 60 — May Cook-Off 2021**
+
 💻 LeetCode Profile
 ⭐ CodeChef 4★
 📈 Maximum CodeChef Rating: 1843
