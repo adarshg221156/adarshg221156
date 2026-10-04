@@ -1,6 +1,6 @@
 # Hi, I'm Adarsh Gupta 👋
 
-### Senior Application Software Engineer | Java | Backend | Cloud HCM | AI Agents
+### Senior Application Software Engineer | Java | Backend | System Design | Cloud HCM | AI Agents
 
 I'm a **Software Engineer with 4+ years of experience at Oracle**, working on enterprise-scale applications in the **Oracle Cloud HCM** ecosystem.
 
@@ -27,7 +27,7 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,python,php" />
 </p>
 
 ### Backend & APIs
@@ -174,52 +174,6 @@ I'm using GitHub to document my journey through:
 * 🧩 Real-world backend projects
 
 > **Learn → Build → Document → Improve**
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Order Processing System
-
-Event-driven backend system demonstrating:
-
-* Java / Spring Boot
-* Apache Kafka
-* Producer / Consumer architecture
-* Event-driven design
-* REST APIs
-* Database integration
-
-### 🔹 BookMyShow — Low Level Design
-
-A Java implementation demonstrating:
-
-* Object-Oriented Design
-* SOLID principles
-* Design patterns
-* Seat locking
-* Concurrency handling
-* Thread safety
-
-### 🔹 Parking Lot — Low Level Design
-
-A scalable object-oriented implementation covering:
-
-* Vehicle management
-* Parking spot allocation
-* Pricing
-* Ticket generation
-* Extensible design
-
-### 🔹 AI-Powered HR Agent
-
-Exploring AI agents for enterprise HR workflows using:
-
-* LLMs
-* Agentic workflows
-* Tools / Functions
-* Business Objects
-* Context-aware recommendations
 
 ---
 
