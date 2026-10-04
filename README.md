@@ -224,8 +224,8 @@ I'm using GitHub to document my journey through:
   <img src="https://github-readme-stats.vercel.app/api?username=adarsh221156&show_icons=true&theme=transparent&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh221156&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh221156&show_icons=true&locale=en" alt="adarsh221156" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh221156&show_icons=true&locale=en&layout=compact" alt="adarsh221156" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh221156&show_icons=true&locale=en" alt="adarsh221156" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh221156&show_icons=true&locale=en&layout=compact" alt="adarsh221156" /></p> -->
 
 ---
 
