@@ -15,8 +15,6 @@ I enjoy building scalable backend services, modern user experiences, and AI-powe
 * 🏗️ Experience building and modernizing **enterprise applications**
 * 🎨 Frontend experience with **JavaScript, HTML, CSS & Oracle VBCS**
 * 🤖 Exploring **AI Agents, LLMs, LangChain, LlamaIndex & agentic workflows**
-* 🧠 Solved **1000+ DSA problems**
-* 🏆 **CodeChef 4★** — Maximum Rating: **1843**
 * 🎓 B.Tech in Computer Science from **MNNIT Allahabad**
 * 🌱 Currently deepening my knowledge of **Distributed Systems, System Design, Kafka, Cloud & AI**
 
@@ -190,7 +188,7 @@ I'm particularly interested in how AI agents can be integrated into traditional 
 
 I enjoy competitive programming and algorithmic problem solving.
 
-* 🟢 **1000+ DSA problems solved**
+* 🧠 **1000+ DSA problems solved**
 * 💻 [LeetCode](https://leetcode.com/adarsh221156/) 
 * ⭐ **CodeChef 4★**
 * 📈 **Maximum CodeChef Rating: 1843**
@@ -231,6 +229,12 @@ I'm using GitHub to document my journey through:
 ---
 
 ## 🤝 Let's Connect
+
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/adarsh221156" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/adarsh221156">
